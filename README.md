@@ -7,3 +7,4 @@ Solve 400+ LeetCode problems using Python.
 
 - ✅ Day 1 - Two Sum (LeetCode 1)
 - ✅ Day 2 - Contains Duplicate (LeetCode 217)
+- ✅ Day 3 - Valid Anagram (leetCode 242)
