@@ -15,8 +15,9 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 3 | Valid Anagram | #242 | Easy | Hash Map |
 | 4 | Valid Palindrome | #125 | Easy | Strings, Two Pointers |
 | 5 | Ransom Note | #383 | Easy | Hash Map |
+| 6 | Valid Parentheses | 📘 #20 | Easy | Stack |
 
-**Completed:** **5 / 100** ✅
+**Completed:** **6 / 100** ✅
 
 ---
 
@@ -29,7 +30,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 - ✅ Two Pointers
 - ⏳ Binary Search
 - ⏳ Linked List
-- ⏳ Stack
+- ✅ Stack
 - ⏳ Queue
 - ⏳ Recursion
 - ⏳ Trees
