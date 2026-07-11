@@ -17,7 +17,9 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 5 | Ransom Note | #383 | Easy | Hash Map |
 | 6 | Valid Parentheses | #20 | Easy | Stack |
 | 7 | Baseball Game | #682 | Easy | Stack |
-**Completed:** **7 / 100** ✅
+| 8 | Isomorphic Strings |#205 | Easy | Hash Map, String |
+
+**Completed:** **8 / 100** ✅
 
 ---
 
