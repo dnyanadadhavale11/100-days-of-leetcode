@@ -18,8 +18,9 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 6 | Valid Parentheses | #20 | Easy | Stack |
 | 7 | Baseball Game | #682 | Easy | Stack |
 | 8 | Isomorphic Strings |#205 | Easy | Hash Map, String |
+| 9 | Best Time to Buy and Sell Stock |#121 | Easy | Arrays |
 
-**Completed:** **8 / 100** ✅
+**Completed:** **9 / 100** ✅
 
 ---
 
