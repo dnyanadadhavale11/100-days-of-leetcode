@@ -22,8 +22,9 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 10 | Merge Sorted Array | #88 | Easy | Arrays, Two Pointers |
 | 11 | Remove Duplicates from Sorted Array | #26 | Easy | Arrays, Two Pointers |
 | 12 | Remove Element | #27 | Easy | Arrays, Two Pointers |
+| 13 | Search Insert Position | #35 | Easy | Arrays, math |
 
-**Completed:** **12 / 100** ✅
+**Completed:** **13 / 100** ✅
 
 ---
 
