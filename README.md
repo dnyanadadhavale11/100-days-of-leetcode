@@ -23,8 +23,9 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 11 | Remove Duplicates from Sorted Array | #26 | Easy | Arrays, Two Pointers |
 | 12 | Remove Element | #27 | Easy | Arrays, Two Pointers |
 | 13 | Search Insert Position | #35 | Easy | Arrays, math |
+| 14 | Binary Search | #704 | Easy | Arrays, Binary Search |
 
-**Completed:** **13 / 100** ✅
+**Completed:** **14 / 100** ✅
 
 ---
 
@@ -35,7 +36,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 - ✅ Hash Map
 - ✅ Hash Set
 - ✅ Two Pointers
-- ⏳ Binary Search
+- ✅ Binary Search
 - ⏳ Linked List
 - ✅ Stack
 - ⏳ Queue
