@@ -24,8 +24,9 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 12 | Remove Element | #27 | Easy | Arrays, Two Pointers |
 | 13 | Search Insert Position | #35 | Easy | Arrays, math |
 | 14 | Binary Search | #704 | Easy | Arrays, Binary Search |
+| 15 | Reverse String | #344 | Easy | Two Pointers, String |
 
-**Completed:** **14 / 100** ✅
+**Completed:** **15 / 100** ✅
 
 ---
 
