@@ -25,8 +25,9 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 13 | Search Insert Position | #35 | Easy | Arrays, math |
 | 14 | Binary Search | #704 | Easy | Arrays, Binary Search |
 | 15 | Reverse String | #344 | Easy | Two Pointers, String |
+| 16 | Move Zeros | #284 | Easy | Two Pointers |
 
-**Completed:** **15 / 100** ✅
+**Completed:** **16 / 100** ✅
 
 ---
 
