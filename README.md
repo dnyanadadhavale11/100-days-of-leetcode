@@ -26,8 +26,9 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 14 | Binary Search | #704 | Easy | Arrays, Binary Search |
 | 15 | Reverse String | #344 | Easy | Two Pointers, String |
 | 16 | Move Zeros | #284 | Easy | Two Pointers |
+| 17 | Two Sums II| #167 | Easy | Two Pointers |
 
-**Completed:** **16 / 100** ✅
+**Completed:** **17 / 100** ✅
 
 ---
 
