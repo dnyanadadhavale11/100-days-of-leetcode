@@ -27,8 +27,9 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 15 | Reverse String | #344 | Easy | Two Pointers, String |
 | 16 | Move Zeros | #284 | Easy | Two Pointers |
 | 17 | Two Sums II| #167 | Easy | Two Pointers |
+| 18 | Squares of a Sorted Array| #977 | Easy |Arrays, Two Pointers |
 
-**Completed:** **17 / 100** ✅
+**Completed:** **18 / 100** ✅
 
 ---
 
