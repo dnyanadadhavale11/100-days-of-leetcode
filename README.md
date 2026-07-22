@@ -28,8 +28,9 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 16 | Move Zeros | #284 | Easy | Two Pointers |
 | 17 | Two Sums II| #167 | Easy | Two Pointers |
 | 18 | Squares of a Sorted Array| #977 | Easy |Arrays, Two Pointers |
+| 19 | Majority Element | #169 | Easy | Arrays, Boyer-Moore Voting Algorithm |
 
-**Completed:** **18 / 100** ✅
+**Completed:** **19 / 100** ✅
 
 ---
 
