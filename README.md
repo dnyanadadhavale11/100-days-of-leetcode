@@ -29,8 +29,9 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 17 | Two Sums II| #167 | Easy | Two Pointers |
 | 18 | Squares of a Sorted Array| #977 | Easy |Arrays, Two Pointers |
 | 19 | Majority Element | #169 | Easy | Arrays, Boyer-Moore Voting Algorithm |
+| 20 | Summary Ranges | #228 | Easy | Arrays |
 
-**Completed:** **19 / 100** ✅
+**Completed:** **20 / 100** ✅
 
 ---
 
