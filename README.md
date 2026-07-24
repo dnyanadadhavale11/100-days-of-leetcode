@@ -30,7 +30,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 18 | Squares of a Sorted Array| #977 | Easy |Arrays, Two Pointers |
 | 19 | Majority Element | #169 | Easy | Arrays, Boyer-Moore Voting Algorithm |
 | 20 | Summary Ranges | #228 | Easy | Arrays |
-| 20 | Merge Two Sorted Array | #21 | Easy | LinkedList |
+| 21 | Merge Two Sorted Array | #21 | Easy | LinkedList |
 
 **Completed:** **21 / 100** ✅
 
