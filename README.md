@@ -32,8 +32,9 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 20 | Summary Ranges | #228 | Easy | Arrays |
 | 21 | Merge Two Sorted Array | #21 | Easy | LinkedList |
 | 22 | Reverse Linked List | #206 | Easy | Linked List, Recursion |
-
-**Completed:** **22 / 100** ✅
+| 23 | Middle of the Linked List | #876 | Easy | Linked List |
+         
+**Completed:** **23 / 100** ✅
 
 ---
 
