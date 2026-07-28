@@ -34,8 +34,9 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 22 | Reverse Linked List | #206 | Easy | Linked List, Recursion |
 | 23 | Middle of the Linked List | #876 | Easy | Linked List |
 | 24 | Linked List Cycle | #141 | Easy | Linked List, Two Pointers |
+| 25 | Remove Linked List Elements | #203 | Easy | Linked List|
          
-**Completed:** **24 / 100** ✅
+**Completed:** **25 / 100** ✅
 
 ---
 
