@@ -35,8 +35,9 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 23 | Middle of the Linked List | #876 | Easy | Linked List |
 | 24 | Linked List Cycle | #141 | Easy | Linked List, Two Pointers |
 | 25 | Remove Linked List Elements | #203 | Easy | Linked List|
+| 26 | Intersection of Two Linked Lists | #160 | Easy | Linked List|
          
-**Completed:** **25 / 100** ✅
+**Completed:** **26 / 100** ✅
 
 ---
 
