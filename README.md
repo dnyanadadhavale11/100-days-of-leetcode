@@ -36,7 +36,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 24 | Linked List Cycle | #141 | Easy | Linked List, Two Pointers |
 | 25 | Remove Linked List Elements | #203 | Easy | Linked List|
 | 26 | Intersection of Two Linked Lists | #160 | Easy | Linked List|
-| 2 | Remove nth Node from End of LinkedList | #19 | Medium | Linked List|
+| 27 | Remove nth Node from End of LinkedList | #19 | Medium | Linked List|
          
 **Completed:** **27 / 100** ✅
 
