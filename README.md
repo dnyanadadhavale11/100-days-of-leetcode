@@ -37,8 +37,9 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 25 | Remove Linked List Elements | #203 | Easy | Linked List|
 | 26 | Intersection of Two Linked Lists | #160 | Easy | Linked List|
 | 27 | Remove nth Node from End of LinkedList | #19 | Medium | Linked List|
+| 28 | Palindrome Linked List | #234 | Easy | Linked List|
          
-**Completed:** **27 / 100** ✅
+**Completed:** **28 / 100** ✅
 
 ---
 
