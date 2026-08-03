@@ -40,9 +40,10 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 28 | Palindrome Linked List | #234 | Easy | Linked List|
 | 29 | Remove Duplicates from Sorted List | #83 | Easy | Linked List|
 | 30 | Same Tree | #100 | Easy | Tree|
+| 31 | Invert Binary Tree | #226 | Easy | Tree|
          
          
-**Completed:** **30 / 100** ✅
+**Completed:** **31 / 100** ✅
 
 ---
 
