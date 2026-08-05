@@ -42,7 +42,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 30 | Same Tree | #100 | Easy | Tree|
 | 31 | Invert Binary Tree | #226 | Easy | Tree|
 | 32 | Symmetric Tree | #101 | Easy | Tree|
-         
+| 32 | Diameter of Binary Tree | #543 | Easy | Tree|         
          
 **Completed:** **32 / 100** ✅
 
