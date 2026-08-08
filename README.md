@@ -44,9 +44,11 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 32 | Symmetric Tree | #101 | Easy | Tree|
 | 33 | Diameter of Binary Tree | #543 | Easy | Tree|   
 | 34 | Balanced Binary Tree | #110 | Easy | Tree| 
-| 35 | Maximum Depth of Binary Tree  | #104 | Easy | Tree|         
+| 35 | Maximum Depth of Binary Tree  | #104 | Easy | Tree|  
+| 35 | Maximum Depth of Binary Tree  | #104 | Easy | Tree|  
+| 36 | Binary Tree Inorder Traversal  | #94 | Easy | Tree|               
          
-**Completed:** **35 / 100** ✅
+**Completed:** **36 / 100** ✅
 
 ---
 
