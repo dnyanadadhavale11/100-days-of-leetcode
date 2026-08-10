@@ -47,9 +47,10 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 35 | Maximum Depth of Binary Tree  | #104 | Easy | Tree|  
 | 35 | Maximum Depth of Binary Tree  | #104 | Easy | Tree|  
 | 36 | Binary Tree Inorder Traversal  | #94 | Easy | Tree|   
-| 37 | Subtree of Another Tree  | #572 | Easy | Tree|             
+| 37 | Subtree of Another Tree  | #572 | Easy | Tree|    
+| 38 | Lowest Common Ancestor of a Binary Search Tree | #235 | Medium | Tree|          
          
-**Completed:** **37 / 100** ✅
+**Completed:** **38 / 100** ✅
 
 ---
 
