@@ -49,9 +49,10 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 36 | Binary Tree Inorder Traversal  | #94 | Easy | Tree|   
 | 37 | Subtree of Another Tree  | #572 | Easy | Tree|    
 | 38 | Lowest Common Ancestor of a Binary Search Tree | #235 | Medium | Tree|     
-| 39 | Search in a Binary Search Tree   | #700 | Easy | Tree|      
+| 39 | Search in a Binary Search Tree   | #700 | Easy | Tree|  
+| 40 | Insert into a Binary Search Tree  | #701 | Medium | Tree|      
          
-**Completed:** **39 / 100** ✅
+**Completed:** **40 / 100** ✅
 
 ---
 
