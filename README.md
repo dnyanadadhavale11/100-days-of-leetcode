@@ -51,9 +51,10 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 38 | Lowest Common Ancestor of a Binary Search Tree | #235 | Medium | Tree|     
 | 39 | Search in a Binary Search Tree   | #700 | Easy | Tree|  
 | 40 | Insert into a Binary Search Tree  | #701 | Medium | Tree|   
-| 41 | Single Number   | #136 | Bit Manipulation | Tree|      
+| 41 | Single Number   | #136 | Bit Manipulation | Tree|  
+| 41 | Group Anagrams    | #49 | Hash Map | Tree|      
          
-**Completed:** **41 / 100** ✅
+**Completed:** **42 / 100** ✅
 
 ---
 
