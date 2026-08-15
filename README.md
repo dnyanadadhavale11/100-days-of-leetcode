@@ -52,9 +52,11 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 39 | Search in a Binary Search Tree   | #700 | Easy | Tree|  
 | 40 | Insert into a Binary Search Tree  | #701 | Medium | Tree|   
 | 41 | Single Number   | #136 | Bit Manipulation | Tree|  
-| 41 | Group Anagrams    | #49 | Hash Map | Tree|      
+| 42 | Group Anagrams    | #49 | Hash Map | Tree| 
+| 43 | Longest Consecutive Sequence  | #128 | Hash Set| Tree|     
+
          
-**Completed:** **42 / 100** ✅
+**Completed:** **43 / 100** ✅
 
 ---
 
