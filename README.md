@@ -53,10 +53,11 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 40 | Insert into a Binary Search Tree  | #701 | Medium | Tree|   
 | 41 | Single Number   | #136 | Bit Manipulation | Tree|  
 | 42 | Group Anagrams    | #49 | Hash Map | Tree| 
-| 43 | Longest Consecutive Sequence  | #128 | Hash Set| Tree|     
+| 43 | Longest Consecutive Sequence  | #128 | Hash Set| Tree|  
+| 44 | Climbing Stairs    | #70 | Dynamic Programming | Tree|    
 
          
-**Completed:** **43 / 100** ✅
+**Completed:** **44 / 100** ✅
 
 ---
 
@@ -79,7 +80,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 - ⏳ Backtracking
 - ⏳ Sliding Window
 - ⏳ Greedy
-- ⏳ Dynamic Programming
+- ✅ Dynamic Programming
 - ⏳ Bit Manipulation
 - ⏳ Tries
 - ⏳ Union Find
