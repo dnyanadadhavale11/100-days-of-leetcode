@@ -54,10 +54,11 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 41 | Single Number   | #136 | Bit Manipulation | Tree|  
 | 42 | Group Anagrams    | #49 | Hash Map | Tree| 
 | 43 | Longest Consecutive Sequence  | #128 | Hash Set| Tree|  
-| 44 | Climbing Stairs    | #70 | Dynamic Programming | Tree|    
+| 44 | Climbing Stairs    | #70 | Dynamic Programming | Tree| 
+| 45 | Longest Substring Without Repeating Characters   | #3 | Medium | Sliding Window|    
 
          
-**Completed:** **44 / 100** ✅
+**Completed:** **45 / 100** ✅
 
 ---
 
