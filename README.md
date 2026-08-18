@@ -56,9 +56,10 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 43 | Longest Consecutive Sequence  | #128 | Hash Set| Tree|  
 | 44 | Climbing Stairs    | #70 | Dynamic Programming | Tree| 
 | 45 | Longest Substring Without Repeating Characters   | #3 | Medium | Sliding Window|    
+| 46 | Min Stack   | #70 | Medium | Stack | 
 
          
-**Completed:** **45 / 100** ✅
+**Completed:** **46 / 100** ✅
 
 ---
 
