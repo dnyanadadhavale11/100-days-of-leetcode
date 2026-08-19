@@ -57,10 +57,11 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 44 | Climbing Stairs    | #70 | Dynamic Programming | Tree| 
 | 45 | Longest Substring Without Repeating Characters   | #3 | Medium | Sliding Window|    
 | 46 | Min Stack   | #70 | Medium | Stack |
-| 47 | House Robber | #198 | Medium | Dynamic Programming | 
+| 47 | House Robber 1 | #198 | Medium | Dynamic Programming | 
+| 48 | House Robber 2 | #213 | Medium | Dynamic Programming | 
 
          
-**Completed:** **47 / 100** ✅
+**Completed:** **48 / 100** ✅
 
 ---
 
