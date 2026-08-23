@@ -61,9 +61,10 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 48 | House Robber 2 | #213 | Medium | Dynamic Programming | 
 | 49 | Coin Change | #322 | Medium | Dynamic Programming | 
 | 50 | Daily Temperatures | #739 | Medium | Stack | 
+| 51 | Number of Islands | #200 | Medium | Graph | 
 
          
-**Completed:** **50 / 100** ✅
+**Completed:** **51 / 100** ✅
 
 ---
 
