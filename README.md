@@ -62,9 +62,10 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 49 | Coin Change | #322 | Medium | Dynamic Programming | 
 | 50 | Daily Temperatures | #739 | Medium | Stack | 
 | 51 | Number of Islands | #200 | Medium | Graph | 
+| 52 | Rotting Oranges | #994 | Medium | BFS | 
 
          
-**Completed:** **51 / 100** ✅
+**Completed:** **52 / 100** ✅
 
 ---
 
