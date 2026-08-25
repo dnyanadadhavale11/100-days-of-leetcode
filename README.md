@@ -63,9 +63,10 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 50 | Daily Temperatures | #739 | Medium | Stack | 
 | 51 | Number of Islands | #200 | Medium | Graph | 
 | 52 | Rotting Oranges | #994 | Medium | BFS | 
+| 53 | Top K Frequent Elements | #347 | Medium | Hash Map | 
 
          
-**Completed:** **52 / 100** ✅
+**Completed:** **53 / 100** ✅
 
 ---
 
