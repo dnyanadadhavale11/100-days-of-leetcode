@@ -64,10 +64,11 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 51 | Number of Islands | #200 | Medium | Graph | 
 | 52 | Rotting Oranges | #994 | Medium | BFS | 
 | 53 | Top K Frequent Elements | #347 | Medium | Hash Map |
-| 54 | Largest Rectangle in Histogram | #84 | Hard | Stack  
+| 54 | Largest Rectangle in Histogram | #84 | Hard | Stack | 
+| 55 | Kth Largest Element in an Array | #215 | Medium | Priority Queue |  
 
          
-**Completed:** **54 / 100** ✅
+**Completed:** **55 / 100** ✅
 
 ---
 
@@ -81,7 +82,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 - ✅ Binary Search
 - ✅ Linked List
 - ✅ Stack
-- ⏳ Queue
+- ✅ Queue
 - ⏳ Recursion
 - ✅ Trees
 - ⏳ Binary Search Tree
