@@ -65,10 +65,12 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 52 | Rotting Oranges | #994 | Medium | BFS | 
 | 53 | Top K Frequent Elements | #347 | Medium | Hash Map |
 | 54 | Largest Rectangle in Histogram | #84 | Hard | Stack | 
-| 55 | Kth Largest Element in an Array | #215 | Medium | Priority Queue |  
+| 55 | Kth Largest Element in an Array | #215 | Medium | Priority Queue | 
+| 56 | Add Two Numbers | #2 | Medium | Linked List|  
+
 
          
-**Completed:** **55 / 100** ✅
+**Completed:** **56 / 100** ✅
 
 ---
 
