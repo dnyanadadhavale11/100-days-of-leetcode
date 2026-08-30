@@ -66,12 +66,14 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 53 | Top K Frequent Elements | #347 | Medium | Hash Map |
 | 54 | Largest Rectangle in Histogram | #84 | Hard | Stack | 
 | 55 | Kth Largest Element in an Array | #215 | Medium | Priority Queue | 
-| 57 | Longest Palindromic Substring | #5 | Medium | Dynamic Programming|  
+| 57 | Longest Palindromic Substring | #5 | Medium | Dynamic Programming| 
+| 58 | Roman to Integer | #13 | Medium |HasgMap|  
+
 
 
 
          
-**Completed:** **57 / 100** ✅
+**Completed:** **58 / 100** ✅
 
 ---
 
