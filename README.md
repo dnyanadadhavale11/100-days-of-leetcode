@@ -68,13 +68,14 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 55 | Kth Largest Element in an Array | #215 | Medium | Priority Queue | 
 | 57 | Longest Palindromic Substring | #5 | Medium | Dynamic Programming| 
 | 58 | Roman to Integer | #13 | Medium |HasgMap| 
-| 59 | Longest Common Prefix | #14 | Easy |Array|  
+| 59 | Longest Common Prefix | #14 | Easy |Array| 
+| 60 | 3 sum | #15 | Medium |Array|  
 
 
 
 
          
-**Completed:** **59 / 100** ✅
+**Completed:** **60 / 100** ✅
 
 ---
 
