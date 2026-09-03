@@ -71,12 +71,13 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 59 | Longest Common Prefix | #14 | Easy |Array| 
 | 60 | 3 sum | #15 | Medium |Array|  
 | 61 | Product of Array Except Self | #238 | Medium |Array|  
+| 62 | Maximum Subarray | #53 | Medium |Array| 
 
 
 
 
          
-**Completed:** **61 / 100** ✅
+**Completed:** **62 / 100** ✅
 
 ---
 
