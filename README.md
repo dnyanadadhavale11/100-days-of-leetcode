@@ -73,12 +73,13 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 61 | Product of Array Except Self | #238 | Medium |Array|  
 | 62 | Maximum Subarray | #53 | Medium |Array| 
 | 63 | 4Sum | #18 | Medium |Array| 
+| 64 | 3Sum closest | #16 | Medium |Array| 
 
 
 
 
          
-**Completed:** **63 / 100** ✅
+**Completed:** **64 / 100** ✅
 
 ---
 
