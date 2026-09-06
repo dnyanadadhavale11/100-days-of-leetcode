@@ -74,12 +74,13 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 62 | Maximum Subarray | #53 | Medium |Array| 
 | 63 | 4Sum | #18 | Medium |Array| 
 | 64 | 3Sum closest | #16 | Medium |Array| 
+| 65 | Generate Parenthesis | #22 | Medium |String| 
 
 
 
 
          
-**Completed:** **64 / 100** ✅
+**Completed:** **65 / 100** ✅
 
 ---
 
