@@ -75,13 +75,15 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 63 | 4Sum | #18 | Medium |Array| 
 | 64 | 3Sum closest | #16 | Medium |Array| 
 | 65 | Generate Parenthesis | #22 | Medium |String| 
-| 66 | Length of Last Word | #58 | Easy |String| 
+| 66 | Length of Last Word | #58 | Easy |String|
+| 67 | Plus One  | #66 | Easy |Array|
+
 
 
 
 
          
-**Completed:** **66 / 100** ✅
+**Completed:** **67 / 100** ✅
 
 ---
 
