@@ -79,13 +79,14 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 67 | Plus One  | #66 | Easy |Array|
 | 68 | Sqrt(x)  | #69 | Easy |Binary Search|
 | 69 | Convert Sorted Array to Binary Search Tree | #108 | Easy |Binary Search|
+| 70 | Minimum Depth of Binary Tree | #111 | Easy |Binary Tree|
 
 
 
 
 
          
-**Completed:** **69 / 100** ✅
+**Completed:** **70 / 100** ✅
 
 ---
 
