@@ -81,13 +81,14 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 69 | Convert Sorted Array to Binary Search Tree | #108 | Easy |Binary Search|
 | 70 | Minimum Depth of Binary Tree | #111 | Easy |Binary Tree|
 | 71 |Linked List Cycle | #141 | Easy |Linked List|
+| 72 | Pascal's Triangle | #118 | Easy |Array|
 
 
 
 
 
          
-**Completed:** **71 / 100** ✅
+**Completed:** **72 / 100** ✅
 
 ---
 
