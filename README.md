@@ -82,13 +82,14 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 70 | Minimum Depth of Binary Tree | #111 | Easy |Binary Tree|
 | 71 |Linked List Cycle | #141 | Easy |Linked List|
 | 72 | Pascal's Triangle | #118 | Easy |Array|
+| 73 | Binary Tree Preorder Traversal | #118 | Easy |Tree, Stak|
 
 
 
 
 
          
-**Completed:** **72 / 100** ✅
+**Completed:** **73 / 100** ✅
 
 ---
 
