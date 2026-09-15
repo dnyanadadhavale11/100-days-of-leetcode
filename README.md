@@ -83,13 +83,14 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 71 |Linked List Cycle | #141 | Easy |Linked List|
 | 72 | Pascal's Triangle | #118 | Easy |Array|
 | 73 | Binary Tree Preorder Traversal | #118 | Easy |Tree, Stak|
+| 74 | Excel Sheet Column Title | #168 | Easy |String|
 
 
 
 
 
          
-**Completed:** **73 / 100** ✅
+**Completed:** **74 / 100** ✅
 
 ---
 
