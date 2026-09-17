@@ -84,13 +84,15 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 72 | Pascal's Triangle | #118 | Easy |Array|
 | 73 | Binary Tree Preorder Traversal | #118 | Easy |Tree, Stak|
 | 74 | Excel Sheet Column Title | #168 | Easy |String|
+| 75 | Combine Two Tables | #175 | Easy |Database|
+| 76 | Container With Most Water | #11 | Medium |Two Pointers|
 
 
 
 
 
          
-**Completed:** **74 / 100** ✅
+**Completed:** **76 / 100** ✅
 
 ---
 
