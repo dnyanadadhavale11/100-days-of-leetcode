@@ -86,13 +86,14 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 74 | Excel Sheet Column Title | #168 | Easy |String|
 | 75 | Combine Two Tables | #175 | Easy |Database|
 | 76 | Container With Most Water | #11 | Medium |Two Pointers|
+| 77 | Word Pattern | #290 | Easy |String|
 
 
 
 
 
          
-**Completed:** **76 / 100** ✅
+**Completed:** **77 / 100** ✅
 
 ---
 
