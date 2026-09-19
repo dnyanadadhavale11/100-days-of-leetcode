@@ -87,13 +87,14 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 75 | Combine Two Tables | #175 | Easy |Database|
 | 76 | Container With Most Water | #11 | Medium |Two Pointers|
 | 77 | Word Pattern | #290 | Easy |String|
+| 78 |Integer to Roman| #12 | Medium | Hash table |
 
 
 
 
 
          
-**Completed:** **77 / 100** ✅
+**Completed:** **78 / 100** ✅
 
 ---
 
