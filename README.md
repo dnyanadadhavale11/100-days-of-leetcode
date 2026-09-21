@@ -88,7 +88,8 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 76 | Container With Most Water | #11 | Medium |Two Pointers|
 | 77 | Word Pattern | #290 | Easy |String|
 | 78 |Integer to Roman| #12 | Medium | Hash table |
-| 79 | Missing Number | #268 | Easy |Binary searech|
+| 79 | Binary Tree Paths | #257 | Easy |Binary Tree|
+
 
 
 
