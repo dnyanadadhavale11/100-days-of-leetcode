@@ -89,6 +89,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 77 | Word Pattern | #290 | Easy |String|
 | 78 |Integer to Roman| #12 | Medium | Hash table |
 | 79 | Binary Tree Paths | #257 | Easy |Binary Tree|
+| 80 | Range Sum Query – Immutable | #303 | Easy |Array|
 
 
 
@@ -96,7 +97,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 
 
          
-**Completed:** **79 / 100** ✅
+**Completed:** **80 / 100** ✅
 
 ---
 
