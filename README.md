@@ -91,6 +91,8 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 79 | Binary Tree Paths | #257 | Easy |Binary Tree|
 | 80 | Range Sum Query – Immutable | #303 | Easy |Array|
 | 81 | Reverse Vowels of a String| #345 | Easy | String, Two Pointers |
+| 82 | Reverse String II| #541 | Easy | Two Pointers |
+
 
 
 
@@ -98,7 +100,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 
 
          
-**Completed:** **81 / 100** ✅
+**Completed:** **82 / 100** ✅
 
 ---
 
