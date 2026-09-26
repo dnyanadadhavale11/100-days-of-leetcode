@@ -92,7 +92,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 80 | Range Sum Query – Immutable | #303 | Easy |Array|
 | 81 | Reverse Vowels of a String| #345 | Easy | String, Two Pointers |
 | 82 | Reverse String II| #541 | Easy | Two Pointers |
-
+| 83 | Clone Graph | #133 | Medium | Graph, DFS |
 
 
 
@@ -100,7 +100,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 
 
          
-**Completed:** **82 / 100** ✅
+**Completed:** **83 / 100** ✅
 
 ---
 
