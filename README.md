@@ -94,6 +94,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 82 | Reverse String II| #541 | Easy | Two Pointers |
 | 83 | Clone Graph | #133 | Medium | Graph, DFS |
 | 84 | Reverse Words in a String III | #557 |Easy | Strings | 
+| 85 | Two Sum IV - Input is a BST | #653 |Easy | Trees | 
 
 
 
@@ -101,7 +102,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 
 
          
-**Completed:** **84 / 100** ✅
+**Completed:** **85 / 100** ✅
 
 ---
 
