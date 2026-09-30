@@ -95,6 +95,10 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 83 | Clone Graph | #133 | Medium | Graph, DFS |
 | 84 | Reverse Words in a String III | #557 |Easy | Strings | 
 | 85 | Two Sum IV - Input is a BST | #653 |Easy | Trees | 
+| 86 | Find the Index of the First Occurrence in a String | #28 | Easy | Strings |
+| 87 | Happy Number | #202 | Easy | Hash Set |
+
+
 
 
 
@@ -102,7 +106,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 
 
          
-**Completed:** **85 / 100** ✅
+**Completed:** **87 / 100** ✅
 
 ---
 
