@@ -97,6 +97,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 85 | Two Sum IV - Input is a BST | #653 |Easy | Trees | 
 | 86 | Find the Index of the First Occurrence in a String | #28 | Easy | Strings |
 | 87 | Happy Number | #202 | Easy | Hash Set |
+| 88 | Design HashSet | #705 |Easy | Hash Table |
 
 
 
@@ -106,7 +107,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 
 
          
-**Completed:** **87 / 100** ✅
+**Completed:** **88 / 100** ✅
 
 ---
 
