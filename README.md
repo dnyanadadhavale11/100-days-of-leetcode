@@ -98,6 +98,8 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 86 | Find the Index of the First Occurrence in a String | #28 | Easy | Strings |
 | 87 | Happy Number | #202 | Easy | Hash Set |
 | 88 | Design HashSet | #705 |Easy | Hash Table |
+| 89 | Convert Binary Number in a Linked List to Integer | #1290 | Easy | Linked List |
+
 
 
 
@@ -107,7 +109,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 
 
          
-**Completed:** **88 / 100** ✅
+**Completed:** **89 / 100** ✅
 
 ---
 
