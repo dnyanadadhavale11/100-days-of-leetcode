@@ -99,7 +99,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 87 | Happy Number | #202 | Easy | Hash Set |
 | 88 | Design HashSet | #705 |Easy | Hash Table |
 | 89 | Convert Binary Number in a Linked List to Integer | #1290 | Easy | Linked List |
-
+| 90 | Reverse Bits | #190 | Easy | Bit Manipulation |
 
 
 
@@ -109,7 +109,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 
 
          
-**Completed:** **89 / 100** ✅
+**Completed:** **90 / 100** ✅
 
 ---
 
