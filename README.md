@@ -100,6 +100,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 88 | Design HashSet | #705 |Easy | Hash Table |
 | 89 | Convert Binary Number in a Linked List to Integer | #1290 | Easy | Linked List |
 | 90 | Reverse Bits | #190 | Easy | Bit Manipulation |
+| 91 | Number of 1 Bits | #191 | Easy | Bit Manipulation |
 
 
 
@@ -109,7 +110,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 
 
          
-**Completed:** **90 / 100** ✅
+**Completed:** **91 / 100** ✅
 
 ---
 
