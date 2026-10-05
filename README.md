@@ -101,6 +101,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 89 | Convert Binary Number in a Linked List to Integer | #1290 | Easy | Linked List |
 | 90 | Reverse Bits | #190 | Easy | Bit Manipulation |
 | 91 | Number of 1 Bits | #191 | Easy | Bit Manipulation |
+| 92 | Intersection of Two Arrays | #349 | Easy | Arrays, Hash Set |
 
 
 
@@ -110,7 +111,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 
 
          
-**Completed:** **91 / 100** ✅
+**Completed:** **92 / 100** ✅
 
 ---
 
