@@ -102,7 +102,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 90 | Reverse Bits | #190 | Easy | Bit Manipulation |
 | 91 | Number of 1 Bits | #191 | Easy | Bit Manipulation |
 | 92 | Intersection of Two Arrays | #349 | Easy | Arrays, Hash Set |
-
+| 93 | Contains Duplicate II | #219 | Easy | Hash Map, Sliding Window |
 
 
 
@@ -111,7 +111,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 
 
          
-**Completed:** **92 / 100** ✅
+**Completed:** **93 / 100** ✅
 
 ---
 
