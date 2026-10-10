@@ -104,6 +104,8 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 92 | Intersection of Two Arrays | #349 | Easy | Arrays, Hash Set |
 | 93 | Contains Duplicate II | #219 | Easy | Hash Map, Sliding Window |
 | 94 | First Unique Character in a String | #387 | Easy | Strings, Hash Map |
+| 95 | Kth Distinct String in an Array | #2053 | Easy | Arrays, Hash Map, Strings |
+| 96 | Is Subsequence | #392 | Easy | Strings, Two Pointers |
 
 
 
@@ -112,7 +114,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 
 
          
-**Completed:** **94 / 100** ✅
+**Completed:** **96 / 100** ✅
 
 ---
 
