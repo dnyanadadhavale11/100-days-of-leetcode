@@ -106,7 +106,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 94 | First Unique Character in a String | #387 | Easy | Strings, Hash Map |
 | 95 | Kth Distinct String in an Array | #2053 | Easy | Arrays, Hash Map, Strings |
 | 96 | Is Subsequence | #392 | Easy | Strings, Two Pointers |
-
+| 97 | Backspace String Compare | #844 | Easy | Strings, Two Pointers |
 
 
 
@@ -114,7 +114,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 
 
          
-**Completed:** **96 / 100** ✅
+**Completed:** **97 / 100** ✅
 
 ---
 
