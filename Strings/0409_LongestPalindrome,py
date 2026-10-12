@@ -1,0 +1,20 @@
+class Solution:
+    def longestPalindrome(self, s: str) -> int:
+        frequency = {}
+
+        for char in s:
+            frequency[char] = frequency.get(char, 0) + 1
+
+        length = 0
+        odd_found = False
+
+        for count in frequency.values():
+            length += (count // 2) * 2
+
+            if count % 2 == 1:
+                odd_found = True
+
+        if odd_found:
+            length += 1
+
+        return length
