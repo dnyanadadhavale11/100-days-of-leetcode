@@ -107,6 +107,8 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 95 | Kth Distinct String in an Array | #2053 | Easy | Arrays, Hash Map, Strings |
 | 96 | Is Subsequence | #392 | Easy | Strings, Two Pointers |
 | 97 | Backspace String Compare | #844 | Easy | Strings, Two Pointers |
+| 98 | Longest Palindrome | #409 | Easy | Strings, Hash Map |
+| 99 | Find the Difference | #389 | Easy | Strings, Bit Manipulation |
 
 
 
@@ -114,7 +116,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 
 
          
-**Completed:** **97 / 100** ✅
+**Completed:** **99 / 100** ✅
 
 ---
 
