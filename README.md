@@ -109,6 +109,8 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 | 97 | Backspace String Compare | #844 | Easy | Strings, Two Pointers |
 | 98 | Longest Palindrome | #409 | Easy | Strings, Hash Map |
 | 99 | Find the Difference | #389 | Easy | Strings, Bit Manipulation |
+| 100 | Sort Characters By Frequency | #451 | Medium | Strings, Hash Map, Sorting |
+
 
 
 
@@ -116,7 +118,7 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 
 
          
-**Completed:** **99 / 100** ✅
+**Completed:** **100 / 100** ✅
 
 ---
 
@@ -131,18 +133,14 @@ Complete the **100 Days of LeetCode** challenge while improving my problem-solvi
 - ✅ Linked List
 - ✅ Stack
 - ✅ Queue
-- ⏳ Recursion
 - ✅ Trees
-- ⏳ Binary Search Tree
-- ⏳ Heap (Priority Queue)
-- ⏳ Graphs
-- ⏳ Backtracking
-- ⏳ Sliding Window
-- ⏳ Greedy
+- ✅ Binary Search Tree
+- ✅ Graphs
+- ✅ Backtracking
+- ✅ Sliding Window
+- ✅ Greedy
 - ✅ Dynamic Programming
-- ⏳ Bit Manipulation
-- ⏳ Tries
-- ⏳ Union Find
+- ✅ Bit Manipulation
 
 ---
 
